@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit Bhagirath NAik</h1>
+<h1 align="center">Hi 👋, I'm Amit Bhagirath Naik</h1>
 <h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitnaik1573&label=Profile%20views&color=0e75b6&style=flat" alt="amitnaik1573" /> </p>
